@@ -99,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - freeCodeCamp for providing the course material
-- The open-source community for resources and documentation
+- The open-source community for resources and documentationn
